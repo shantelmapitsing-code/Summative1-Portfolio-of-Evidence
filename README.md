@@ -1,5 +1,5 @@
 # Summative1-Portfolio-of-Evidence
-# CreateSpace Youth Centre - WEDE5020 Part 3
+CreateSpace Youth Centre - WEDE5020 Part 3
 Student Name: Malihu Shantel Mapitsing
 Student Number: st10475897
 Module code: WEDE5020
