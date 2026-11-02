@@ -4,12 +4,7 @@ Student Name: Malihu Shantel Mapitsing
 Student Number: st10475897
 Module code: WEDE5020
 
-.Single Stylesheet: css_assets/myfirststyles.css
-.<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;800&display=swap" rel="stylesheet">
- .<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-
-##Real-time search
-.https://fanciful-pithivier-650b60.netlify.app
+.Single Stylesheet: css_assets/myfirststyles.css and javascript
 
 
 ### What i improved (fixed)
@@ -26,8 +21,12 @@ Module code: WEDE5020
 5.Form Validation & AJAX:** Replaced basic HTML alerts with custom JavaScript validation (`js/forms.js`). Intercepted form submissions using `event.preventDefault()` to simulate AJAX without reloading the page.
 6.SEO Optimization:** Added unique meta descriptions, `alt` tags, a `robots.txt` file, and a `sitemap.xml` file.
 
+7.Real-time search
+.https://fanciful-pithivier-650b60.netlify.app
 
 
+8.<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;800&display=swap" rel="stylesheet">
+ .<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 
 
 
