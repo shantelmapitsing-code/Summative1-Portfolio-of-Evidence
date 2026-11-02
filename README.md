@@ -1494,20 +1494,4 @@ Single Stylesheet: css_assets/myfirststyles.css and javascript
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 mproved Responsive Design
