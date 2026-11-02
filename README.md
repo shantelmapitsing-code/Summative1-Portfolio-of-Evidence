@@ -7,25 +7,6 @@ Module code: WEDE5020
 Single Stylesheet: css_assets/myfirststyles.css and javascript
 
 
-## What i improved (fixed)
-1.CSS Typography Styles
-2.Responsive Design
-
-
-## What i added 
- Part 3 New Features Added:
-1.Interactive Programs Page: Upgraded the Programs page (`products.html`) using JavaScript (`js/programs.js`). Added real-time search, category filtering, and sorting to the list of programs.
-2.Program Card Styling:** Added category tag badges and a "R0 FREE" price tag to all program cards to enhance the user experience and UI design.
-3.Interactive Elements:** Added a functional FAQ accordion, a welcome modal popup, and an interactive image lightbox on the home page.
-# Summative1-Portfolio-of-Evidence
-CreateSpace Youth Centre - WEDE5020 Part 3
-Student Name: Malihu Shantel Mapitsing
-Student Number: st10475897
-Module code: WEDE5020
-
-Single Stylesheet: css_assets/myfirststyles.css and javascript
-
-
 ### What i improved (fixed)
 1.improved CSS Typography Styles
 2.Responsive Design
