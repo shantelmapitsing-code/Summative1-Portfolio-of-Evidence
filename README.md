@@ -13,8 +13,8 @@ Module code: WEDE5020
 
 
 ### What i improved (fixed)
- 1. improved CSS Typography Styles
- 2.Responsive Design
+1.improved CSS Typography Styles
+2.Responsive Design
 
 
 ### What i added 
