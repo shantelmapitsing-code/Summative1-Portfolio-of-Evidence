@@ -7,7 +7,7 @@ Module code: WEDE5020
 Single Stylesheet: css_assets/myfirststyles.css and javascript
 
 
-### What i improved (fixed)
+## What i improved (fixed)
 1.CSS Typography Styles
 2.Responsive Design
 
