@@ -25,11 +25,6 @@ Single Stylesheet: css_assets/myfirststyles.css and javascript
 .https://fanciful-pithivier-650b60.netlify.app
 
 
-8.<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;800&display=swap" rel="stylesheet">
- .<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
-
-
-
 
 
 
