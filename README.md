@@ -4,7 +4,7 @@ Student Name: Malihu Shantel Mapitsing
 Student Number: st10475897
 Module code: WEDE5020
 
-.Single Stylesheet: css_assets/myfirststyles.css and javascript
+Single Stylesheet: css_assets/myfirststyles.css and javascript
 
 
 ### What i improved (fixed)
