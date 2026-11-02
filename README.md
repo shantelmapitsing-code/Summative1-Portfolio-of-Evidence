@@ -61,7 +61,7 @@ Single Stylesheet: css_assets/myfirststyles.css
 
 ## File Structure
 *   All HTML files are in root for easy linking.
-*   `css_assets/` contains only 1 CSS file as required for distinction.
+*   `css_assets/` contains only 1 CSS file.
 *   `js/` contains `main.js` (interactive elements), `forms.js` (validation), and `programs.js` (dynamic content).
 *   `images/` contains responsive versions (480w and 800w).
 *   `proposal/` contains updated Part 1 documents.
