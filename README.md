@@ -3,9 +3,9 @@ Student Name: Malihu Shantel Mapitsing
 Student Number:st10475897  
 Module code:WEDE5020
 
-**Live Website Link: https://fanciful-pithivier-650b60.netlify.app
+Live Website Link: https://fanciful-pithivier-650b60.netlify.app
 
-**Single Stylesheet: css_assets/myfirststyles.css
+Single Stylesheet: css_assets/myfirststyles.css
 
 
 ## What I Changed From Part 1 (Fixes)
