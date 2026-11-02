@@ -36,7 +36,7 @@ Single Stylesheet: css_assets/myfirststyles.css
 
 ## What I Fixed From Part 2 (Based on Feedback)
 *Following the feedback received in Part 2, I implemented the following corrections for Part 3:*
-*   **Typography Fix (Score 2/5):** Refactored the `@media` queries for mobile. I reduced the `h1` font size from `3rem` to `2rem` and centered the text in the hero section to prevent text overlap on small screens.
+*   **Typography Fix:** Refactored the `@media` queries for mobile. I reduced the `h1` font size from `3rem` to `2rem` and centered the text in the hero section to prevent text overlap on small screens.
 *   **CSS Validity:** Removed invalid `lch()` and `hwb()` color functions which caused cross-browser issues. Replaced them with standard Hex and RGB values.
 *   **Responsive Design Adjustment:** Improved the mobile menu by setting `width: 100%` and `text-align: center` on the navigation links, turning them into easy-to-tap buttons.
 *   **References:** Added a dedicated Harvard-style References section in the footer of every HTML page and updated the full list below.
