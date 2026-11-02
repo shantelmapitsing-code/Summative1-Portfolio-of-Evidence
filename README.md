@@ -12,7 +12,7 @@ Single Stylesheet: css_assets/myfirststyles.css and javascript
 2.Responsive Design
 
 
-##What i added 
+## What i added 
  Part 3 New Features Added:
 1.Interactive Programs Page: Upgraded the Programs page (`products.html`) using JavaScript (`js/programs.js`). Added real-time search, category filtering, and sorting to the list of programs.
 2.Program Card Styling:** Added category tag badges and a "R0 FREE" price tag to all program cards to enhance the user experience and UI design.
