@@ -8,7 +8,7 @@ Single Stylesheet: css_assets/myfirststyles.css and javascript
 
 
 ### What i improved (fixed)
-1.improved CSS Typography Styles
+1.CSS Typography Styles
 2.Responsive Design
 
 
