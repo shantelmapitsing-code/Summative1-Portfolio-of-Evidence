@@ -1,7 +1,7 @@
 # CreateSpace Youth Centre - WEDE5020 Part 3
-**Student Name: Malihu Shantel Mapitsing  
-**Student Number:st10475897  
-**Module code:WEDE5020
+Student Name: Malihu Shantel Mapitsing  
+Student Number:st10475897  
+Module code:WEDE5020
 
 **Live Website Link: https://fanciful-pithivier-650b60.netlify.app
 
