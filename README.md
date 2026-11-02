@@ -19,12 +19,12 @@ Module code: WEDE5020
 
 ### What i added 
  Part 3 New Features Added:
-*   **Interactive Programs Page:** Upgraded the Programs page (`products.html`) using JavaScript (`js/programs.js`). Added real-time search, category filtering, and sorting to the list of programs.
-*   **Program Card Styling:** Added category tag badges and a "R0 FREE" price tag to all program cards to enhance the user experience and UI design.
-*   **Interactive Elements:** Added a functional FAQ accordion, a welcome modal popup, and an interactive image lightbox on the home page.
-*   **Interactive Maps:** Integrated Leaflet.js maps on the Home and Contact pages.
-*   **Form Validation & AJAX:** Replaced basic HTML alerts with custom JavaScript validation (`js/forms.js`). Intercepted form submissions using `event.preventDefault()` to simulate AJAX without reloading the page.
-*   **SEO Optimization:** Added unique meta descriptions, `alt` tags, a `robots.txt` file, and a `sitemap.xml` file.
+1.Interactive Programs Page: Upgraded the Programs page (`products.html`) using JavaScript (`js/programs.js`). Added real-time search, category filtering, and sorting to the list of programs.
+2.Program Card Styling:** Added category tag badges and a "R0 FREE" price tag to all program cards to enhance the user experience and UI design.
+3.Interactive Elements:** Added a functional FAQ accordion, a welcome modal popup, and an interactive image lightbox on the home page.
+4.Interactive Maps:** Integrated Leaflet.js maps on the Home and Contact pages.
+5.Form Validation & AJAX:** Replaced basic HTML alerts with custom JavaScript validation (`js/forms.js`). Intercepted form submissions using `event.preventDefault()` to simulate AJAX without reloading the page.
+6.SEO Optimization:** Added unique meta descriptions, `alt` tags, a `robots.txt` file, and a `sitemap.xml` file.
 
 
 
